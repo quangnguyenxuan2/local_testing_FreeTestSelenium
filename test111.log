@@ -1,0 +1,193 @@
+[INFO] [16:02:41.776] New driver instantiated
+[INFO] [16:02:41.791] Impilicitly wait applied on system 10s
+[INFO] [16:02:46.545] Web application launched
+[INFO] [16:02:46.615] enter keyword success
+[INFO] [16:02:53.081] Browser closed
+[INFO] [16:03:35.847] New driver instantiated
+[INFO] [16:03:35.862] Impilicitly wait applied on system 10s
+[INFO] [16:03:41.426] Web application launched
+[INFO] [16:03:41.499] enter keyword success
+[INFO] [16:03:47.927] Browser closed
+[INFO] [16:04:32.544] New driver instantiated
+[INFO] [16:04:32.647] Impilicitly wait applied on system 10s
+[INFO] [16:04:42.950] Web application launched
+[INFO] [16:04:43.033] enter keyword success
+[INFO] [16:04:49.783] Browser closed
+[INFO] [16:25:36.733] New driver instantiated
+[INFO] [16:25:37.123] Impilicitly wait applied on system 10s
+[INFO] [16:25:46.673] Web application launched
+[INFO] [16:25:46.780] enter keyword success
+[INFO] [16:25:54.647] Browser closed
+[INFO] [16:30:27.468] ****************************************************************************************
+[INFO] [16:30:27.469] $$$$$$$$$$$$$$$$$$$$$              Start_Test_Case_Function_01       $$$$$$$$$$$$$$$$$$$$$$$$$
+[INFO] [16:30:27.469] ****************************************************************************************
+[INFO] [16:30:32.911] New driver instantiated
+[INFO] [16:30:32.970] Impilicitly wait applied on system 10s
+[INFO] [16:30:37.763] Web application launched
+[INFO] [16:30:37.834] enter keyword success
+[INFO] [16:30:44.275] Browser closed
+[INFO] [16:30:44.275] XXXXXXXXXXXXXXXXXXXXXXX            -E---N---D-         XXXXXXXXXXXXXXXXXXXXXX
+[INFO] [16:30:44.275] X
+[INFO] [16:33:44.215] ******* Start_Test_Case_Function_01 ********
+[INFO] [16:33:49.004] New driver instantiated
+[INFO] [16:33:49.021] Impilicitly wait applied on system 10s
+[INFO] [16:34:43.234] Web application launched
+[INFO] [16:34:43.314] enter keyword success
+[INFO] [16:34:49.654] Browser closed
+[INFO] [16:34:49.654] *** END ***End_Test_Case_Function_01 ***END***
+[INFO] [16:48:19.362] ******* Start_Test_Case_Function_01 ********
+[INFO] [16:48:24.987] New driver instantiated
+[INFO] [16:48:24.999] Impilicitly wait applied on system 10s
+[INFO] [16:48:29.997] Web application launched
+[INFO] [16:48:30.094] enter keyword success
+[INFO] [16:48:36.602] Browser closed
+[INFO] [16:48:36.602] *** END ***End_Test_Case_Function_01 ***END***
+[INFO] [16:54:27.008] ******* Start_Test_Case_Function_01 ********
+[INFO] [16:54:40.549] New driver instantiated
+[INFO] [16:54:40.566] Impilicitly wait applied on system 10s
+[INFO] [16:54:47.882] Web application launched
+[INFO] [16:54:47.957] enter keyword success
+[INFO] [16:55:00.599] Browser closed
+[INFO] [16:55:00.599] *** END ***End_Test_Case_Function_01 ***END***
+[INFO] [16:58:31.646] ******* Start_Test_Case_Function_01 ********
+[INFO] [16:58:37.465] New driver instantiated
+[INFO] [16:58:37.484] Impilicitly wait applied on system 10s
+[INFO] [16:58:46.297] Web application launched
+[INFO] [17:00:23.713] ******* Start_Test_Case_Function_01 ********
+[INFO] [17:00:39.754] New driver instantiated
+[INFO] [17:00:39.768] Impilicitly wait applied on system 10s
+[INFO] [17:00:53.422] Web application launched
+[INFO] [17:02:49.321] enter keyword success
+[INFO] [17:03:37.932] ******* Start_Test_Case_Function_01 ********
+[INFO] [17:03:45.076] New driver instantiated
+[INFO] [17:03:45.089] Impilicitly wait applied on system 10s
+[INFO] [17:03:56.157] Web application launched
+[INFO] [17:04:04.921] enter keyword success
+[INFO] [17:05:46.751] ******* Start_Test_Case_Function_01 ********
+[INFO] [17:05:52.355] New driver instantiated
+[INFO] [17:05:52.626] Impilicitly wait applied on system 10s
+[INFO] [17:06:52.545] Web application launched
+[INFO] [17:09:05.998] enter keyword success
+[INFO] [17:17:35.689] ******* Start_Test_Case_Function_01 ********
+[INFO] [17:17:41.300] New driver instantiated
+[INFO] [17:17:41.315] Impilicitly wait applied on system 10s
+[INFO] [17:17:41.320] This is pre-condition test
+[INFO] [17:17:43.144] Browser closed
+[INFO] [17:17:43.144] *** END ***End_Test_Case_Function_01 ***END***
+[INFO] [17:17:43.158] ******* Start_Test_Case_Function_01 ********
+[INFO] [17:17:48.025] New driver instantiated
+[INFO] [17:17:48.035] Impilicitly wait applied on system 10s
+[INFO] [17:17:52.919] ----01 Web application launched ----
+[INFO] [17:17:52.994] ----01 Enter keyword success ----
+[INFO] [17:17:59.274] Browser closed
+[INFO] [17:17:59.274] *** END ***End_Test_Case_Function_01 ***END***
+[INFO] [17:17:59.276] ******* Start_Test_Case_Function_01 ********
+[INFO] [17:18:04.273] New driver instantiated
+[INFO] [17:18:04.278] Impilicitly wait applied on system 10s
+[INFO] [17:18:09.544] ----02 Web application launched ----
+[INFO] [17:18:09.614] ----02 Enter keyword success ----
+[INFO] [17:18:15.897] Browser closed
+[INFO] [17:18:15.899] *** END ***End_Test_Case_Function_01 ***END***
+[INFO] [17:26:19.449] New driver instantiated
+[INFO] [17:26:19.468] Impilicitly wait applied on system 10s
+[INFO] [17:26:26.372] ----03 Web application launched ----
+[INFO] [17:26:26.517] ----03 Enter keyword success ----
+[INFO] [17:26:33.709] Browser closed
+[INFO] [17:26:38.935] New driver instantiated
+[INFO] [17:26:38.942] Impilicitly wait applied on system 10s
+[INFO] [17:26:38.943] This is pre-condition test
+[INFO] [17:26:40.274] Browser closed
+[INFO] [17:26:45.963] New driver instantiated
+[INFO] [17:26:45.973] Impilicitly wait applied on system 10s
+[INFO] [17:26:52.017] ----01 Web application launched ----
+[INFO] [17:26:52.084] ----01 Enter keyword success ----
+[INFO] [17:26:58.416] Browser closed
+[INFO] [17:27:02.988] New driver instantiated
+[INFO] [17:27:02.995] Impilicitly wait applied on system 10s
+[INFO] [17:27:11.077] ----02 Web application launched ----
+[INFO] [17:27:11.186] ----02 Enter keyword success ----
+[INFO] [17:27:17.440] Browser closed
+[INFO] [17:38:55.039] New driver instantiated
+[INFO] [17:38:55.055] Impilicitly wait applied on system 10s
+[INFO] [17:38:55.060] This is pre-condition test
+[INFO] [17:38:57.139] Browser closed
+[INFO] [17:39:03.056] New driver instantiated
+[INFO] [17:39:03.062] Impilicitly wait applied on system 10s
+[INFO] [17:39:03.064] Test input Parameter TestNG success
+[INFO] [17:39:04.359] Browser closed
+[INFO] [17:39:09.149] New driver instantiated
+[INFO] [17:39:09.157] Impilicitly wait applied on system 10s
+[INFO] [17:39:18.263] ----01 Web application launched ----
+[INFO] [17:39:18.348] ----01 Enter keyword success ----
+[INFO] [17:39:24.660] Browser closed
+[INFO] [17:39:29.668] New driver instantiated
+[INFO] [17:39:29.677] Impilicitly wait applied on system 10s
+[INFO] [17:39:38.137] ----02 Web application launched ----
+[INFO] [17:39:38.244] ----02 Enter keyword success ----
+[INFO] [17:39:44.588] Browser closed
+[INFO] [10:26:07.825] New driver instantiated
+[INFO] [10:26:07.926] Impilicitly wait applied on system 10s
+[INFO] [10:26:07.931] This is pre-condition test
+[INFO] [10:26:09.387] Browser closed
+[INFO] [10:26:18.426] New driver instantiated
+[INFO] [10:26:18.432] Impilicitly wait applied on system 10s
+[INFO] [10:26:23.563] ----01 Web application launched ----
+[INFO] [10:26:23.654] ----01 Enter keyword success ----
+[INFO] [10:26:30.037] Browser closed
+[INFO] [10:26:35.726] New driver instantiated
+[INFO] [10:26:35.732] Impilicitly wait applied on system 10s
+[INFO] [10:26:40.328] ----02 Web application launched ----
+[INFO] [10:26:40.453] ----02 Enter keyword success ----
+[INFO] [10:26:46.800] Browser closed
+[INFO] [11:32:13.493] New driver instantiated
+[INFO] [11:32:13.568] Impilicitly wait applied on system 10s
+[INFO] [11:32:13.573] This is pre-condition test
+[INFO] [11:32:15.533] Browser closed
+[INFO] [11:32:20.553] New driver instantiated
+[INFO] [11:32:20.558] Impilicitly wait applied on system 10s
+[INFO] [11:32:20.560] Test input Parameter TestNG success
+[INFO] [11:32:21.751] Browser closed
+[INFO] [11:32:25.653] New driver instantiated
+[INFO] [11:32:25.656] Impilicitly wait applied on system 10s
+[INFO] [11:32:31.242] ----01 Web application launched ----
+[INFO] [11:32:31.381] ----01 Enter keyword success ----
+[INFO] [11:32:37.648] Browser closed
+[INFO] [11:32:42.275] New driver instantiated
+[INFO] [11:32:42.281] Impilicitly wait applied on system 10s
+[INFO] [11:32:47.555] ----02 Web application launched ----
+[INFO] [11:32:47.663] ----02 Enter keyword success ----
+[INFO] [11:32:53.944] Browser closed
+[INFO] [11:42:19.179] New driver instantiated
+[INFO] [11:42:19.195] Impilicitly wait applied on system 10s
+[INFO] [11:42:19.200] This is pre-condition test
+[INFO] [11:42:20.576] Browser closed
+[INFO] [11:42:26.489] New driver instantiated
+[INFO] [11:42:26.498] Impilicitly wait applied on system 10s
+[INFO] [11:42:26.498] Test input Parameter TestNG success
+[INFO] [11:42:27.705] Browser closed
+[INFO] [11:42:32.662] New driver instantiated
+[INFO] [11:42:32.668] Impilicitly wait applied on system 10s
+[INFO] [11:42:37.777] ----01 Web application launched ----
+[INFO] [11:42:37.843] ----01 Enter keyword success ----
+[INFO] [11:42:44.140] Browser closed
+[INFO] [11:42:48.884] New driver instantiated
+[INFO] [11:42:48.890] Impilicitly wait applied on system 10s
+[INFO] [11:42:56.163] ----02 Web application launched ----
+[INFO] [11:42:56.285] ----02 Enter keyword success ----
+[INFO] [11:43:02.595] Browser closed
+[INFO] [13:05:14.386] New driver instantiated
+[INFO] [13:05:14.514] Impilicitly wait applied on system 10s
+[INFO] [13:05:14.519] This is pre-condition test
+[INFO] [13:05:16.675] Browser closed
+[INFO] [13:05:31.820] New driver instantiated
+[INFO] [13:05:31.827] Impilicitly wait applied on system 10s
+[INFO] [13:05:31.828] Test input Parameter TestNG success
+[INFO] [13:05:33.053] Browser closed
+[INFO] [13:05:39.552] New driver instantiated
+[INFO] [13:05:39.558] Impilicitly wait applied on system 10s
+[INFO] [13:05:46.965] ----01 Web application launched ----
+[INFO] [13:05:53.449] Browser closed
+[INFO] [13:05:59.419] New driver instantiated
+[INFO] [13:05:59.432] Impilicitly wait applied on system 10s
+[INFO] [13:06:09.577] ----02 Web application launched ----
+[INFO] [13:06:16.006] Browser closed
